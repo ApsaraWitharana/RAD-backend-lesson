@@ -1,3 +1,5 @@
+////ckeck ->>>>>>>>>>  http://localhost:3000/
+
 // import * as http from 'http';
 // import * as fs from 'fs'; 
 
@@ -11,7 +13,7 @@
 // //      res.write('<h1>Hello Customer</h');
 // //      res.end();
 // //    }else{
-// //      res.write('<h1>Hellow</h');
+// //      res.write('<h1>Hellow</h>');
 // //    }
 //         if(req.url === '/add'){
 //             fs.writeFile('example.txt',req.url,() =>{
@@ -32,6 +34,7 @@
 // });
 
 //==========================================================//
+//ckeck ->>>>>>>>>>  http://localhost:3000/add
 
 // import * as http from 'http';
 // import * as fs from 'fs'; 
@@ -55,6 +58,8 @@
 // });
 
 //===========================================================//
+//ckeck ->>>>>>>>>>  http://localhost:3000/add
+
 // import * as http from 'http';
 
 // const server = http.createServer((req, res) => {
@@ -112,6 +117,8 @@
 // });
 
 //===============================================================//
+//ckeck ->>>>>>>>>>  http://localhost:3000
+
 
 // import * as http from 'http';
 // import { Router } from './route/route';
@@ -127,7 +134,8 @@
 // });
 
 //==========node ================//
-
+//ckeck ->>>>>>>>>>  http://localhost:3000/ 
+////ckeck ->>>>>>>>>>  http://localhost:3000/add  === /delete
 // import  express from 'express';
 
 // const app = express();
@@ -150,6 +158,7 @@
 
 //==================================================================//
 // run this using command - tsc - run to ts file ,and node Example.js -run to js file
+//ckeck ->>>>>>>>>>  http://localhost:3000/send
 import express from 'express';
 import bodyParser from 'body-parser';
 
