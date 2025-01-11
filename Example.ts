@@ -31,6 +31,8 @@
 //     console.log("Srver strated at port 3000")
 // });
 
+//==========================================================//
+
 // import * as http from 'http';
 // import * as fs from 'fs'; 
 
@@ -52,7 +54,7 @@
 //     console.log('Server started at port 3000');
 // });
 
-
+//===========================================================//
 // import * as http from 'http';
 
 // const server = http.createServer((req, res) => {
@@ -109,6 +111,7 @@
 //     console.log('Server started at port 3000');
 // });
 
+//===============================================================//
 
 // import * as http from 'http';
 // import { Router } from './route/route';
@@ -145,7 +148,7 @@
 //     console.log('Server started at port 3000');
 // });
 
-
+//==================================================================//
 // run this using command - tsc - run to ts file ,and node Example.js -run to js file
 import express from 'express';
 import bodyParser from 'body-parser';
