@@ -1,0 +1,12 @@
+## =======instroll package ==========//2025/01/10
+# 01. npm instroll
+# 02. npm init -y    ->> instroll node module
+# 03. npm i --save -dev @types/node 
+# 04. npm i --save -dev @types/express
+# 05. npx tsc --init    -> text file set and instroll tsconfig.json file
+# 06. npm i express
+# 07. npm i nodemon  
+# 08. npm i typescript
+
+# change tsconfig file 
+# "target": "ES6" and  "module": "ES6"
